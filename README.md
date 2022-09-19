@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suman-saha1106
-- 👀 I’m interested in coding and development
+- 👀 I’m interested in Full Stack web development.
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me mail: sagasuman22@gmail.com
